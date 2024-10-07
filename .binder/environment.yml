@@ -5,3 +5,5 @@ dependencies:
   - octave_kernel
   - sympy
   - xeus-cling  
+  - xeus-octave
+  - plotly
