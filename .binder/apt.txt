@@ -1,5 +1,5 @@
 octave
-octave-symbolic
+# octave-symbolic
 octave-miscellaneous
 gnuplot
 ghostscript
